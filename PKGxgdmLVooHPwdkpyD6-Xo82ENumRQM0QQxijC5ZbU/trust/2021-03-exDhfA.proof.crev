@@ -1,0 +1,17 @@
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2021-03-16T17:46:32.258784072+01:00"
+from:
+  id-type: crev
+  id: PKGxgdmLVooHPwdkpyD6-Xo82ENumRQM0QQxijC5ZbU
+  url: "https://github.com/korrat/crev-proofs"
+ids:
+  - id-type: crev
+    id: VylyTuk8CMGqIxgHixWaqfiUn3xZyzOA1wFrQ0sR1As
+    url: "https://github.com/BurntSushi/crev-proofs"
+trust: medium
+----- SIGN CREV PROOF -----
+w2gLhe40B29_h-T-ISOZUPq27ic-ukSyEglllFutaQ9DDyo1hwsTuPi0ozxMCX1YobdvS7sNwKbt67cu78UzAg
+----- END CREV PROOF -----
+
